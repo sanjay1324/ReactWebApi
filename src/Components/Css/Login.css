@@ -1,0 +1,21 @@
+/* Login.css */
+.login-container {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .avatar {
+    margin: 8px;
+    background-color: #1976D2;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Add more styles as needed */
+  
